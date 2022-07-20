@@ -1,0 +1,1 @@
+To view the documetation in graphical format it is requested that the user may go to https://editor.swagger.io/ and upload the json or yaml file.
